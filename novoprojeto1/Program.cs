@@ -13,7 +13,7 @@ namespace novoprojeto1
             string cpf;
             Console.WriteLine("Escreva seu cpf: ");
             Console.ReadLine();
-
+            
 
         }
     }
